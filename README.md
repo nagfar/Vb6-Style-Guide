@@ -5,7 +5,7 @@ Uma abordagem prática para escrita de codigos VB6
 
 1. [Convenção Capitalização](#convenção-capitalização)
 1. [Convenção Nomeação](#convenção-nomeação)
-1. [Nomes de Classes, Estruturas e Interfaces](#nomes-de-classes,-estruturas-e-interfaces)
+1. [Nomes de Classes, Estruturas e Interfaces](#nomes-de-classes-estruturas-e-interfaces)
 1. [Comentários](#comentários)
 1. [Referências](#referências)
 
