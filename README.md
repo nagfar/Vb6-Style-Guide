@@ -163,7 +163,7 @@ End Enum
 - Evite o uso de palavras reservadas da Linguagem
 ```vb
 // ruim
-Dim ReturnNome as String;
+Dim SelectNome as String;
 ```
 ## Nomes de Classes, Estruturas e Interfaces
 
