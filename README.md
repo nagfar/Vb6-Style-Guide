@@ -191,7 +191,7 @@ Public Function Salvar() as Boolean { ... }
 Public Function ValidarDescricaoProdutoImportado(descricao_ as String) as String
 {
   ' Foi necessário remover a quebra de linha, para que não ocorra erro ao Exportar Carga de produtos para o PDV 	
-  ValidarDescricaoProdutoImportado = Replace(descricao_,'\n','')
+  ValidarDescricaoProdutoImportado = Replace(descricao_,"\n","")
 }
 ```
 
