@@ -162,14 +162,18 @@ End Enum
 
 - Evite o uso de palavras reservadas da Linguagem
 ```vb
-// ruim
-Dim SelectNome as String;
+' ruim
+Dim Select as String;
 ```
 ## Nomes de Classes, Estruturas e Interfaces
 
 - Nomes de Classes e Estruturas utilize substantivos ou frases nominais 
 - Nomes de Interfaces dê preferencia para o uso de adjetivos e ocasionalmente substantivos ou frases nominais 
 - Utilize o prefixo "I" para nomes de interfaces
+- Utilize o prefixo "model" para nomes de Modelos (que representam entidades do banco de dados);
+- Utilize o prefixo "cls" para classes auxiliares (exemplo: clsUtil);
+- Utilize o prefixo "frm" para Formulários;
+- Utilize o prefixo "filtro" para classes que representem filtros de uma busca;
 - Nomes de Enuns
 	* Use nomes singulares
 
